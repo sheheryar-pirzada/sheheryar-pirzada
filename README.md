@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Computer Sciene graduate from COMSATS, Islamabad. I have been working at Wanclouds as a Software Engineer since 2019. I mainly work on Frontend.
+I'm a Computer Science student at Washington State University.
 
 
 ## 🌐 Socials:
@@ -11,9 +11,6 @@ I'm a Computer Sciene graduate from COMSATS, Islamabad. I have been working at W
 ![](https://github-readme-stats.vercel.app/api?username=sheheryar-pirzada&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sheheryar-pirzada&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sheheryar-pirzada&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### Enjoy this random meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sheheryar-pirzada&icon=8&color=0)](https://visitcount.itsvg.in)
